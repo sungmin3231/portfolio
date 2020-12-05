@@ -148,7 +148,7 @@ p {
 }
 /* Home */
 #home {
-  background: url("images/bg1.jpeg") center/cover no-repeat;
+  background: url("../images/bg1.jpeg") center/cover no-repeat;
   background-attachment: fixed;
   overflow: hidden;
 }
@@ -480,7 +480,7 @@ p {
 
 /* Contact */
 #contact {
-  background: url("images/bg8.jpeg") center/cover no-repeat;
+  background: url("../images/bg8.jpeg") center/cover no-repeat;
   background-attachment: fixed;
 }
 
