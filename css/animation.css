@@ -1,0 +1,91 @@
+/* animation */
+@keyframes scroll {
+  from {
+    opacity: 0;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(100%);
+  }
+}
+
+@keyframes borderclale {
+  from {
+  }
+  to {
+    opacity: 0;
+    transform: scale(1.2);
+  }
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 30ch;
+  }
+}
+@keyframes blink-caret {
+  50% {
+    border-color: transparent;
+  }
+}
+@keyframes text-move {
+  from {
+    transform: translateX(-140px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+@keyframes text-move2 {
+  from {
+    transform: translateX(140px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+@keyframes photo-move {
+  from {
+    transform: translateX(-140px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+@keyframes profile {
+  from {
+    transform: translateX(140px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+@keyframes history {
+  from {
+    transform: translateX(140px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+@keyframes skillbar {
+  from {
+    width: 0;
+  }
+  to {
+  }
+}
