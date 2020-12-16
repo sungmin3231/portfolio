@@ -428,7 +428,7 @@ p {
 }
 .project {
   position: relative;
-  background-color: var(--color-dark-white);
+  background-color: var(--color-light-white);
   margin: 2px;
   display: flex;
   justify-content: center;
